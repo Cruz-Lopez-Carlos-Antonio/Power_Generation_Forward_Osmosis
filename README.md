@@ -7,7 +7,7 @@ The present repository provides the computational implementation that allows the
 
 The physical system consists of an electrokinetic flow of an electrolyte through a silica microchannel bounded by two parallel plates, where forward osmosis drives the fluid motion to generate a streaming potential. Assuming a fully developed flow, the coupled Navier-Stokes equations, electric-current conservation, and a prescribed volumetric flow rate reduce to a linear Fredholm integro-differential equation with a separable rank-one kernel:
 
-$$0 = -\Pi_D + \frac{d^2F}{dY^2} - \Lambda\delta^2 \frac{\cosh(\delta Y)}{\cosh(\delta)} \int_{-1}^{1} F(s)\frac{\cosh(\delta s)}{\cosh(\delta)}\,ds$$
+$$0 = -\Pi_D + \frac{d^2F}{dY^2} - \Lambda\delta^2 \frac{\cosh(\delta Y)}{\cosh(\delta)} \int_{-1}^{1} F(s)\frac{\cosh(\delta s)}{\cosh(\delta)}\ds$$
 
 By exploiting this mathematical structure, an exact closed-form solution is derived for the transverse function $F(Y)$, which uniquely defines the dimensionless longitudinal velocity $U(Y) = \frac{d\Pi}{dX} F(Y)$ under the homogeneous Dirichlet boundary conditions $F(\pm 1) = 0$. This analytical framework directly enables the precise determination of the pressure distribution and the streaming potential without requiring complex iterative algorithms.
 
