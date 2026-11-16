@@ -3,7 +3,7 @@
 
 ## Overview of the Repository
 
-The present repository provides the computational implementation that allows the verification of the exact analytical solution developed in the work *Power Generation in a Silica Microchannel Driven by Forward Osmosis*. This research was recently submitted to the journal "Tecnología y Ciencia Aplicada" (ISSN 2992-8338), a biannual publication edited in Mexico by the Tecnológico Nacional de México through the Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET).
+The present repository provides the computational implementation that allows the verification of the exact analytical solution developed in the work **Power Generation in a Silica Microchannel Driven by Forward Osmosis**. This research was recently submitted to the journal **Tecnología y Ciencia Aplicada** (ISSN 2992-8338), a biannual publication edited in Mexico by the Tecnológico Nacional de México through the Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET).
 
 The physical system consists of an electrokinetic flow of an electrolyte through a silica microchannel bounded by two parallel plates, where forward osmosis drives the fluid motion to generate a streaming potential. Assuming a fully developed flow, the coupled Navier-Stokes equations, electric-current conservation, and a prescribed volumetric flow rate reduce to a linear Fredholm integro-differential equation with a separable rank-one kernel:
 
@@ -20,9 +20,9 @@ By exploiting this mathematical structure, an exact closed-form solution is deri
 
 **Financial Support**
 
-Guillermo Sánchez and Carlos Cruz acknowledges the support from Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPPIT), DGAPA-PAPIIT, of Universidad Autónoma Nacional de México (UNAM), under contract number IA104126.
+Guillermo Sánchez and Carlos Cruz acknowledges the support from **Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPPIT)**, DGAPA-PAPIIT, of Universidad Autónoma Nacional de México (UNAM), under contract number IA104126.
 
-The author Carlos Antonio Cruz López gratefully acknowledges the financial support received from the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI, formerly known as CONAHCYT), through the program *Estancias Posdoctorales por México, 2022*, under the project entitled: *Desarrollo de modelos fenomenológicos energéticos de orden fraccional, para la optimización y simulación en reactores nucleares de potencia*, as well as the financial support from the Basic Science and Frontier Project 2023-2024, with the reference CBF-2023-2024-2023, also belonging to SECIHTI-CONAHCYT.
+The author Carlos Antonio Cruz López gratefully acknowledges the financial support received from the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI, formerly known as CONAHCYT), through the program **Estancias Posdoctorales por México, 2022**, under the project entitled: *Desarrollo de modelos fenomenológicos energéticos de orden fraccional, para la optimización y simulación en reactores nucleares de potencia*, as well as the financial support from the Basic Science and Frontier Project 2023-2024, with the reference CBF-2023-2024-2023, also belonging to SECIHTI-CONAHCYT.
 
 ## License
 
