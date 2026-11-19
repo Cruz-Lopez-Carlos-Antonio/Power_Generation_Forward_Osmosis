@@ -5,9 +5,9 @@ math: true
 ---
 # Overview
 
-The present repository provides the computational implementation that allows the verification of the exact analytical solution of the electrokinetic flow of an electrolyte through a silica microchannel driven by forward osmosis.
+The present repository provides the computational implementation that allows the verification of the exact analytical solution of the electrokinetic flow of an electrolyte through a silica nanochannel driven by forward osmosis.
 
-The governing equations describing the steady, fully developed flow in the microchannel reduce to the following linear Fredholm integro-differential equation with a separable rank-one kernel:
+The governing equations describing the steady, fully developed flow in the nanochannel reduce to the following linear Fredholm integro-differential equation with a separable rank-one kernel:
 
 <div style="background:#f7f7f7; padding:15px; border-left:4px solid #4a90e2; border-radius:6px; margin:20px 0;">
 $$
@@ -49,7 +49,7 @@ These results accompany the manuscript:
 <div style="display:inline-block; padding:0.6em 0.9em; margin:0.4em 0;
             background-color:#f5f5f5; border:1px solid #dddddd; border-radius:6px;"
      markdown="1">
-***Power Generation in a Silica Microchannel Driven by Forward Osmosis***
+***Power Generation in a Silica nanochannel Driven by Forward Osmosis***
 </div>
 
 that was recently submitted to the journal *Tecnología y Ciencia Aplicada*.
