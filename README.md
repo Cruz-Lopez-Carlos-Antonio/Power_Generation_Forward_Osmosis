@@ -32,8 +32,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div style="background:#f1f7ff; padding:12px 15px; border-left:4px solid #4a90e2; border-radius:8px; margin-top:20px;">
   <strong>📘 Full Documentation</strong><br>
   The complete project website (opens in a new page) is available here:<br><br>
-  👉 <a href="https://cruz-lopez-carlos-antonio.github.io/NOMBRE-DE-TU-REPOSITORIO/"
+  👉 <a href="https://cruz-lopez-carlos-antonio.github.io/Power_Generation_Forward_Osmosis/"
         target="_blank" rel="noopener noreferrer">
-        https://cruz-lopez-carlos-antonio.github.io/NOMBRE-DE-TU-REPOSITORIO/
+        https://cruz-lopez-carlos-antonio.github.io/Power_Generation_Forward_Osmosis/
       </a>
 </div>
