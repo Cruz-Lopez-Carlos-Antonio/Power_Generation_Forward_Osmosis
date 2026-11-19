@@ -3,7 +3,7 @@
 
 ## Overview of the Repository
 
-The present repository provides the computational implementation that allows the verification of the exact analytical solution developed in the work **Power Generation in a Silica Microchannel Driven by Forward Osmosis**. This research was recently submitted to the journal **Tecnología y Ciencia Aplicada** (ISSN 2992-8338), a biannual publication edited in Mexico by the Tecnológico Nacional de México through the Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET).
+The present repository provides the computational implementation that allows the verification of the exact analytical solution developed in the work **Power Generation in a Silica Nanochannel Driven by Forward Osmosis**. This research was recently submitted to the journal **Tecnología y Ciencia Aplicada** (ISSN 2992-8338), a biannual publication edited in Mexico by the Tecnológico Nacional de México through the Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET).
 
 The physical system consists of an electrokinetic flow of an electrolyte through a silica microchannel bounded by two parallel plates, where forward osmosis drives the fluid motion to generate a streaming potential. Assuming a fully developed flow, the coupled Navier-Stokes equations, electric-current conservation, and a prescribed volumetric flow rate reduce to a linear Fredholm integro-differential equation with a separable rank-one kernel:
 
